@@ -71,6 +71,7 @@
 10. 怎么实现一个自己的loader
 11. source map
 12. tree shaking
+13. [webpack5升级过程遇到的一些坑](./md/08-webpack5升级过程遇到的一些坑.md)
 
 ## 优化
 
@@ -80,18 +81,36 @@
    2. cdn
    3. 合并请求
 
+## 移动端
+### react native
+
+### flutter
+
+1. [flutter No supported devices connected]
+### h5
+
+1. [微信H5出现重复授权窗口跳转问题](./md/10-微信H5出现重复授权窗口跳转问题.md)
+
+### 微信小程序
+
 ## git
 
 1. 代码提交与commit规范
-2. git的常见api
+2. git的常见ap
+## npm
 
-## 移动端
+1. [怎么发布一个npm包](./md/09-怎么发布一个npm包.md)
+2. [npm镜像的常见操作](./md/11-npm镜像的常见操作.md)
+3. [npm包download-git-repo 报 'git clone' failed with status 128](./md/15-npm包download-git-repo%20报%20'git%20clone'%20failed%20with%20status%20128.md)
 
-1. react native
-2. flutter
-3. h5
-4. 微信h5常见的坑
+## github/gitlab
 
+1. [github上图片不显示](./md/06-github上图片不显示.md)
+2. [同一台电脑上同时访问github与gitlab](./md/07-同一台电脑上同时访问github与gitlab.md)
+
+## mac
+
+1. [mac在系统升级后，出现错误xcrun: error: invalid active developer path...](./md/14-mac在系统升级后，出现错误xcrun:%20error:%20invalid%20active%20developer%20path...md)
 ## 其他
 
 1. 前端脚手架-脚手架的实现方案
@@ -102,3 +121,4 @@
 5. 字体子集化方案
 6. jest单侧
 7. 基于cypress的e2e测试
+8. [让人兴奋的三大JavaScript2021(ES12)新特性](./md/12-让人兴奋的三大JavaScript2021(ES12)新特性.md)
