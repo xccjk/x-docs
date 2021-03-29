@@ -5,7 +5,7 @@
 3. 命令行打开hosts文件后，输入```i```，下面会出现-- INSERT --后就可以输入内容了
 4. 将下面内容拷贝到hosts文件最下面
 
-```
+```javascript
   # GitHub Start 
   192.30.253.112    Build software better, together 
   192.30.253.119    gist.github.com

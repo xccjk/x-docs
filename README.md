@@ -36,26 +36,28 @@
 
 ## js
 
-1. js的几种数据类型
-2. 深拷贝与浅拷贝的实现
-3. js常见的几种继承方式
-4. apply，call，bind的区别于用法
-5. 闭包及使用场景
-6. 原型与原型链
-7. 作用域
-8. var/let/const 异同
-9. 数组的常见api
-10. 异步编程有哪些方案
-11. promise
-12. Generator与async/await等异步编程语法糖
-13. 怎么实现promise/A+规范的promise
-14. 浏览器是怎么执行js代码的
-15. 宏任务与微任务
-16. 浏览器的同源
-17. 跨域的几种实现与解决方案
-18. amd/cmd/ems/commonjs规范的异同
-19. es6常见的方法
-20. 本地存储的集中方式cookie/localstorage/sessionstorage/indexDB
+1. [js的几种数据类型](./md/js/01-js数据类型.md)
+2. [js数据类型的判断](./md/js/02-js数据类型判断.md)
+3. [js数据类型之间的转换](./md/js/03-js数据类型之间的转换.md)
+4. 深拷贝与浅拷贝的实现
+5. js常见的几种继承方式
+6. apply，call，bind的区别于用法
+7. 闭包及使用场景
+8. 原型与原型链
+9. 作用域
+10. var/let/const 异同
+11. 数组的常见api
+12. 异步编程有哪些方案
+13. promise
+14. Generator与async/await等异步编程语法糖
+15. 怎么实现promise/A+规范的promise
+16. 浏览器是怎么执行js代码的
+17. 宏任务与微任务
+18. 浏览器的同源
+19. 跨域的几种实现与解决方案
+20. amd/cmd/ems/commonjs规范的异同
+21. es6常见的方法
+22. 本地存储的集中方式cookie/localstorage/sessionstorage/indexDB
 
 ## webpack
 

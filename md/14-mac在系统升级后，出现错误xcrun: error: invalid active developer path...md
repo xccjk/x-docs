@@ -4,7 +4,7 @@
 
 在对mac做了系统升级后，打开vscode，使用git时，比如`git log`报下面的错误
 
-```
+```javascript
 xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
 ```
 

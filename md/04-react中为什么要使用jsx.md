@@ -8,7 +8,7 @@
 
 <p>react本身不强制使用jsx，在没有jsx时，react实现一个组件依赖于使用React.createElement函数</p>
 
-```
+```javascript
 class Hello extends React.Component {
   render() {
     return React.createElement(
@@ -28,7 +28,7 @@ ReactDOM.render(
 
 <p>使用jsx后</p>
 
-```
+```javascript
 class Hello extends React.Component {
   render() {
     return <div>Hello {this.props.toWhat}</div>
@@ -58,7 +58,7 @@ ReactDOM.render(
 
 <p>模板字符串编写的结构会造成多次内部嵌套，使整个结构变得复杂，并且优化代码提示也会变得困难重重</p>
 
-```
+```javascript
 var box = jsx`
   <${Box}>
     ${

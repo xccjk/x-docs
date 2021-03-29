@@ -19,5 +19,4 @@
 - 撤销已发布的npm包
   - `npm unpublish xcc-standrad-eslint@0.1.0`
 
-
 [参考文章](https://zhuanlan.zhihu.com/p/147804428)

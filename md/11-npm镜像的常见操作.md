@@ -24,7 +24,7 @@ JS包管理平台，但是安装速度不够快，拉取的package包版本可�
 
 ## 常见的源
 
-```
+```javascript
   npm: https://registry.npmjs.org/
 
   cnpm: https://r.cnpmjs.org/
@@ -46,7 +46,7 @@ JS包管理平台，但是安装速度不够快，拉取的package包版本可�
 
 在命令行工具输入`npm config edit`即可对本机镜像进行查看编辑
 
-```
+```javascript
   npm config edit
 ```
 
@@ -56,7 +56,7 @@ JS包管理平台，但是安装速度不够快，拉取的package包版本可�
 
 - npm
 
-```
+```javascript
   // 查看npm当前镜像源
   npm config get registry
   // 设置npm镜像源为淘宝镜像
@@ -65,7 +65,7 @@ JS包管理平台，但是安装速度不够快，拉取的package包版本可�
 
 - yarn
 
-```
+```javascript
   // 查看yarn当前镜像源
   config get registry
   // 设置yarn镜像源为淘宝镜像
@@ -76,13 +76,13 @@ JS包管理平台，但是安装速度不够快，拉取的package包版本可�
 
 - 全局安装nrm
 
-```
+```javascript
   npm install nrm -g
 ```
 
 - 查看镜像列表
 
-```
+```javascript
   nrm ls
 ```
 
@@ -90,30 +90,28 @@ JS包管理平台，但是安装速度不够快，拉取的package包版本可�
 
 - 切换镜像
 
-```
+```javascript
   nrm use yarn
 ```
 
 - 添加镜像
 
-```
+```javascript
   nrm add yarn https://registry.yarnpkg.com/
 ```
 
 - 删除镜像
 
-```
+```javascript
   nrm del yarn
 ```
 
 - 镜像测速
 
-```
+```javascript
   nrm test yarn
 ```
 
 - 查看更多nrm命令
 
 [nrm文档](https://www.npmjs.com/package/nrm)
-
-
