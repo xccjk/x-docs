@@ -97,7 +97,9 @@
 
 ## git
 
-1. 代码提交与commit规范
+1. [git常用命令](./md/git/01-git常用命令.md)
+2. [git版本回退](./md/git/02-git版本回退.md)
+3. [git commit提交规范](./md/git/03-git%20commit提交规范.md)
 
 ## npm
 
