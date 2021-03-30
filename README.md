@@ -84,11 +84,11 @@
    3. 合并请求
 
 ## 移动端
-### react native
 
 ### flutter
 
 1. [flutter No supported devices connected]
+
 ### h5
 
 1. [微信H5出现重复授权窗口跳转问题](./md/10-微信H5出现重复授权窗口跳转问题.md)
@@ -98,7 +98,7 @@
 ## git
 
 1. 代码提交与commit规范
-2. git的常见ap
+
 ## npm
 
 1. [怎么发布一个npm包](./md/09-怎么发布一个npm包.md)
@@ -113,6 +113,7 @@
 ## mac
 
 1. [mac在系统升级后，出现错误xcrun: error: invalid active developer path...](./md/14-mac在系统升级后，出现错误xcrun:%20error:%20invalid%20active%20developer%20path...md)
+
 ## 其他
 
 1. 前端脚手架-脚手架的实现方案
