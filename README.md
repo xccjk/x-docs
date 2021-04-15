@@ -2,14 +2,14 @@
 
 ## http相关
 
-1. [HTTP状态码及含义](./md/01-HTTP状态码及含义.md)
-2. [HTTP协议](./md/02-HTTP协议.md)
-3. [HTTPS协议](./md/03-HTTPS协议.md)
+1. [HTTP状态码及含义](./md/http/01-HTTP状态码及含义.md)
+2. [HTTP协议](./md/http/02-HTTP协议.md)
+3. [HTTPS协议](./md/http/03-HTTPS协议.md)
 
 ## react相关
 
 1. 什么是虚拟DOM
-2. [react中为什么要使用jsx，什么是jsx](./md/04-react中为什么要使用jsx.md)
+2. [react中为什么要使用jsx，什么是jsx](./md/react/04-react中为什么要使用jsx.md)
 3. react diff算法
 4. react的生命周期及作用
 5. 类组件与函数组件有什么区别
@@ -39,25 +39,27 @@
 1. [js的几种数据类型](./md/js/01-js数据类型.md)
 2. [js数据类型的判断](./md/js/02-js数据类型判断.md)
 3. [js数据类型之间的转换](./md/js/03-js数据类型之间的转换.md)
-4. 深拷贝与浅拷贝的实现
-5. js常见的几种继承方式
-6. apply，call，bind的区别于用法
-7. 闭包及使用场景
-8. 原型与原型链
-9. 作用域
-10. var/let/const 异同
-11. 数组的常见api
-12. 异步编程有哪些方案
-13. promise
-14. Generator与async/await等异步编程语法糖
-15. 怎么实现promise/A+规范的promise
-16. 浏览器是怎么执行js代码的
-17. 宏任务与微任务
-18. 浏览器的同源
-19. 跨域的几种实现与解决方案
-20. amd/cmd/ems/commonjs规范的异同
-21. es6常见的方法
-22. 本地存储的集中方式cookie/localstorage/sessionstorage/indexDB
+4. [一文让你搞懂this问题](./md/js/16-this.md)
+5. [map中使用parseInt发生了什么](./md/js/15-map%20parseInt.md)
+6. 深拷贝与浅拷贝的实现
+7. js常见的几种继承方式
+8. apply，call，bind的区别于用法
+9. 闭包及使用场景
+10. 原型与原型链
+11. 作用域
+12. var/let/const 异同
+13. 数组的常见api
+14. 异步编程有哪些方案
+15. promise
+16. Generator与async/await等异步编程语法糖
+17. 怎么实现promise/A+规范的promise
+18. 浏览器是怎么执行js代码的
+19. 宏任务与微任务
+20. 浏览器的同源
+21. 跨域的几种实现与解决方案
+22. amd/cmd/ems/commonjs规范的异同
+23. es6常见的方法
+24. 本地存储的集中方式cookie/localstorage/sessionstorage/indexDB
 
 ## webpack
 
@@ -73,7 +75,7 @@
 10. 怎么实现一个自己的loader
 11. source map
 12. tree shaking
-13. [webpack5升级过程遇到的一些坑](./md/08-webpack5升级过程遇到的一些坑.md)
+13. [webpack5升级过程遇到的一些坑](./md/webpack/08-webpack5升级过程遇到的一些坑.md)
 
 ## 优化
 
@@ -87,11 +89,11 @@
 
 ### flutter
 
-1. [flutter No supported devices connected]
+1. [flutter No supported devices connected](./md/flutter/13-flutter%20No%20supported%20devices%20connected.md)
 
 ### h5
 
-1. [微信H5出现重复授权窗口跳转问题](./md/10-微信H5出现重复授权窗口跳转问题.md)
+1. [微信H5出现重复授权窗口跳转问题](./md/js/10-微信H5出现重复授权窗口跳转问题.md)
 
 ### 微信小程序
 
@@ -103,18 +105,18 @@
 
 ## npm
 
-1. [怎么发布一个npm包](./md/09-怎么发布一个npm包.md)
-2. [npm镜像的常见操作](./md/11-npm镜像的常见操作.md)
-3. [npm包download-git-repo 报 'git clone' failed with status 128](./md/15-npm包download-git-repo%20报%20'git%20clone'%20failed%20with%20status%20128.md)
+1. [怎么发布一个npm包](./md/npm/09-怎么发布一个npm包.md)
+2. [npm镜像的常见操作](./md/npm/11-npm镜像的常见操作.md)
+3. [npm包download-git-repo 报 'git clone' failed with status 128](./md/npm/15-npm包download-git-repo%20报%20'git%20clone'%20failed%20with%20status%20128.md)
 
 ## github/gitlab
 
-1. [github上图片不显示](./md/06-github上图片不显示.md)
-2. [同一台电脑上同时访问github与gitlab](./md/07-同一台电脑上同时访问github与gitlab.md)
+1. [github上图片不显示](./md/npm/06-github上图片不显示.md)
+2. [同一台电脑上同时访问github与gitlab](./md/npm/07-同一台电脑上同时访问github与gitlab.md)
 
 ## mac
 
-1. [mac在系统升级后，出现错误xcrun: error: invalid active developer path...](./md/14-mac在系统升级后，出现错误xcrun:%20error:%20invalid%20active%20developer%20path...md)
+1. [mac在系统升级后，出现错误xcrun: error: invalid active developer path...](./md/npm/14-mac在系统升级后，出现错误xcrun:%20error:%20invalid%20active%20developer%20path.md)
 
 ## 其他
 
@@ -122,8 +124,8 @@
 2. 自动化的打包发布构建系统
 3. 错误监控系统
    1. source map堆栈错误映射
-4. 前端代码规范
-5. 字体子集化方案
+4. [前端代码规范](./md/other/01-代码规范.md)
+5. [字体子集化方案](./md/js/14-字体子集化.md)
 6. jest单侧
 7. 基于cypress的e2e测试
-8. [让人兴奋的三大JavaScript2021(ES12)新特性](./md/12-让人兴奋的三大JavaScript2021(ES12)新特性.md)
+8. [让人兴奋的三大JavaScript2021(ES12)新特性](./md/js/12-让人兴奋的三大JavaScript2021(ES12)新特性.md)

@@ -2,7 +2,6 @@
 
 > 文章译自[此处](https://medium.com/better-programming/the-top-3-new-javascript-es-2021-es-12-features-im-excited-about-a3ac129efbb2)
 
-
 感谢Babel，我使用ECMAScript 2021的新功能已有一年多了。 几乎所有功能都是有用的，但是其中三个功能使我节省了大量时间，并使我的代码更具可读性，从而脱颖而出
 
 让我们越过它们
@@ -65,4 +64,3 @@ e.errors是errors对象的数组
 
 - [Logical assignment operator](https://babeljs.io/docs/en/babel-plugin-proposal-logical-assignment-operators)
 - [Numeric separator](https://babeljs.io/docs/en/babel-plugin-proposal-numeric-separator)
-

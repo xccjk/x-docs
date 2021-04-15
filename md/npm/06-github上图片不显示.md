@@ -1,9 +1,9 @@
-### github上图片不显示
+# github上图片不显示
 
-1. 运行环境mac pro
-2. 命令行输入```sudo vi /etc/hosts```，需要输入电脑密码
-3. 命令行打开hosts文件后，输入```i```，下面会出现-- INSERT --后就可以输入内容了
-4. 将下面内容拷贝到hosts文件最下面
+- 运行环境mac pro
+- 命令行输入```sudo vi /etc/hosts```，需要输入电脑密码
+- 命令行打开hosts文件后，输入```i```，下面会出现-- INSERT --后就可以输入内容了
+- 将下面内容拷贝到hosts文件最下面
 
 ```javascript
   # GitHub Start 
@@ -26,4 +26,4 @@
   # GitHub End
 ```
 
-6. 按esc，wq保存即可
+- 按esc，wq保存即可

@@ -12,14 +12,16 @@ xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools
 
 打开命令行，运行
 
-```
+```javascript
 xcode-select --install
 ```
 
 错误详情如下👇：
 
-<img src='../img/08.png' width='500' />
+<img src='../../img/08.png' width='500' />
 
-<img src='../img/09.png' width='500' />
+<img src='../../img/09.png' width='500' />
 
-[参考链接](https://blog.csdn.net/zhangzehai2234/article/details/102493836)
+## 参考资料
+
+- [git报错xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcru](https://blog.csdn.net/zhangzehai2234/article/details/102493836)
