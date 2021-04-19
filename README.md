@@ -41,25 +41,26 @@
 3. [js数据类型之间的转换](./md/js/03-js数据类型之间的转换.md)
 4. [一文让你搞懂this问题](./md/js/16-this.md)
 5. [map中使用parseInt发生了什么](./md/js/15-map%20parseInt.md)
-6. 深拷贝与浅拷贝的实现
-7. js常见的几种继承方式
-8. apply，call，bind的区别于用法
-9. 闭包及使用场景
-10. 原型与原型链
-11. 作用域
-12. var/let/const 异同
-13. 数组的常见api
-14. 异步编程有哪些方案
-15. promise
-16. Generator与async/await等异步编程语法糖
-17. 怎么实现promise/A+规范的promise
-18. 浏览器是怎么执行js代码的
-19. 宏任务与微任务
-20. 浏览器的同源
-21. 跨域的几种实现与解决方案
-22. amd/cmd/ems/commonjs规范的异同
-23. es6常见的方法
-24. 本地存储的集中方式cookie/localstorage/sessionstorage/indexDB
+6. [前端模块化](./md/js/17-前端模块化.md)
+7. 深拷贝与浅拷贝的实现
+8. js常见的几种继承方式
+9. apply，call，bind的区别于用法
+10. 闭包及使用场景
+11. 原型与原型链
+12. 作用域
+13. var/let/const 异同
+14. 数组的常见api
+15. 异步编程有哪些方案
+16. promise
+17. Generator与async/await等异步编程语法糖
+18. 怎么实现promise/A+规范的promise
+19. 浏览器是怎么执行js代码的
+20. 宏任务与微任务
+21. 浏览器的同源
+22. 跨域的几种实现与解决方案
+23. amd/cmd/ems/commonjs规范的异同
+24. es6常见的方法
+25. 本地存储的集中方式cookie/localstorage/sessionstorage/indexDB
 
 ## webpack
 
@@ -129,3 +130,4 @@
 6. jest单侧
 7. 基于cypress的e2e测试
 8. [让人兴奋的三大JavaScript2021(ES12)新特性](./md/js/12-让人兴奋的三大JavaScript2021(ES12)新特性.md)
+9. [浏览器书签](./bookmarks/README.md)
