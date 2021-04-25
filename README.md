@@ -50,7 +50,7 @@
 9. apply，call，bind的区别于用法
 10. [闭包及使用场景](./md/interview/JavaScript/06-闭包.md)
 11. 原型与原型链
-12. 作用域
+12. [JavaScript作用域](./md/interview/JavaScript/07-JavaScript作用域.md)
 13. var/let/const 异同
 14. 数组的常见api
 15. 异步编程有哪些方案
@@ -65,7 +65,6 @@
 24. es6常见的方法
 25. 本地存储的集中方式cookie/localstorage/sessionstorage/indexDB
 26. [事件捕获/事件冒泡/事件代理](./md/interview/JavaScript/05-事件捕获与事件冒泡.md)
-27. [JavaScript作用域](./md/interview/JavaScript/07-JavaScript作用域.md)
 
 ## webpack
 
