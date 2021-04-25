@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<style>
+  .item {
+    height: 100px;
+    background-color: #398def;
+  }
+  .item-1, .item-2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+</style>
+<style>
+  .item1 {
+    width: 300px;
+    height: 300px;
+    background-color:antiquewhite
+  }
+  .item-3 {
+    text-align: center;
+    line-height: 300px;
+  }
+  .item-4 {
+    text-align: center;
+    line-height: 300px;
+    background-color: aqua;
+  }
+</style>
+<style>
+  .item-5  {
+    position: relative;
+    height: 300px;
+    background-color: beige;
+  }
+  .item-5 span {
+    position: absolute;
+    margin: 0 auto;
+  }
+</style>
+<body>
+  <div id='app'>
+    <h2>flex布局中垂直水平居中</h2>
+    <div class='item item-1'>
+      <span>行内元素</span>
+    </div>
+    <div class='item item-2'>
+      <div>块级元素</div>
+    </div>
+    <h2>父元素定宽高</h2>
+    <div class='item1 item-3'>
+      行内元素
+    </div>
+    <div class='item1 item-4'>
+      <div>块级元素</div>
+    </div>
+    <h2>display: tabel</h2>
+    <div class="item-5">
+      <span>postion</span>
+    </div>
+  </div>
+</body>
+</html>

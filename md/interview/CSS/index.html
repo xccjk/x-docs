@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<style>
+  .standard {
+    width: 100px;
+    height: 100px;
+    padding: 50px;
+    border: 50px solid #ddd;
+    margin: 100px;
+  }
+</style>
+<style>
+  .hidden {
+    width: 100px;
+    height: 100px;
+    background: #398def;
+  }
+  .item-display {
+    display: none;
+  }
+  .item-opacity {
+    opacity: 0;
+  }
+  .item-visibility {
+    visibility: hidden
+  }
+  .item-position {
+    position: absolute;
+    top: -10000px;
+    left: -100000px;
+  }
+  .item-clip {
+    clip-path: polygon(0px 0px, 0px 0px, 0px 0px, 0px 0px);
+  }
+</style>
+<style>
+  .item-span {
+    width: 50px;
+    height: 50px;
+    margin: 20px;
+    padding: 20px;
+  }
+</style>
+<body>
+  <div id='app'>
+    <h2>css盒模型</h2>
+    <div class='standard'>标准盒模型标准盒模型标准盒模型标准盒模型标准盒模型标准盒模型标准盒模型标准盒模型标准盒模型标准盒模型标准盒模型标准盒模型标准盒模型标准盒模型标准盒模型标准盒模型标准盒模型标准盒模型标准盒模型</div>
+    <h2>隐藏元素的几种方式</h2>
+    <div class="hidden item-display">display</div>
+    <div class="hidden item-opacity">opacity</div>
+    <div class="hidden item-visibility">visibility</div>
+    <div class="hidden item-position">position</div>
+    <div class="hidden item-clip">Clip-path</div>
+    <h2>css元素类型</h2>
+    <h3>行内元素</h3>
+    <a>a元素</a>
+    <span class='item-span'>span元素</span>
+    <img alt="img元素" />
+    <i>i 元素</i>
+    <em>em 元素</em>
+    <label>label 元素</label>
+    <input placeholder="input 元素" />
+    <select>select元素</select>
+    <h3>块级元素</h3>
+    <div>div元素</div>
+    <h6>h1-h6</h6>
+    <p>p元素</p>
+    <ul>
+      <li>li 元素</li>
+    </ul>
+    <aside>aside 元素</aside>
+    <address>address 元素</address>
+    <header>header元素</header>
+    <main>main 元素</main>
+    <footer>footer 元素</footer>
+  </div>
+</body>
+</html>

@@ -81,7 +81,7 @@ obj2.test8()  // window
 ```javascript
 var a = 1
 function foo() {
-  console.log(this)
+  console.log(this)    // foo {}
 }
 var obj = new foo()
 obj.a = 2

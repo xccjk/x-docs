@@ -52,5 +52,5 @@
   // 输入shift+:，然后输入wq，保存并退出vim
 ```
 
-- ***运行命令`sudo ssh-add ~/.ssh/id_rsa_gitlab`与`sudo ssh-add ~/.ssh/id_rsa_github`***，一定要执行
+- 运行命令`sudo ssh-add ~/.ssh/id_rsa_gitlab`与`sudo ssh-add ~/.ssh/id_rsa_github`，一定要执行
 - 运行命令`sudo ssh -T git@github.com`与`sudo ssh -T git@gitlab.com`，测试一下是否成功

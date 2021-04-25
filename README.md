@@ -33,6 +33,9 @@
 4. css预处理方案less/sass
 5. css的常见布局
 6. viewport及屏幕dpr分辨率
+7. [css盒模型](./md/interview/CSS/CSS盒模型.md)
+8. [css隐藏元素的几种方式](./md/interview/CSS/CSS实现隐藏元素的几种方式.md)
+9. [css行内元素和块级元素](./md/interview/CSS/CSS行内元素和块级元素.md)
 
 ## js
 
@@ -45,7 +48,7 @@
 7. 深拷贝与浅拷贝的实现
 8. js常见的几种继承方式
 9. apply，call，bind的区别于用法
-10. 闭包及使用场景
+10. [闭包及使用场景](./md/interview/JavaScript/06-闭包.md)
 11. 原型与原型链
 12. 作用域
 13. var/let/const 异同
@@ -61,6 +64,8 @@
 23. amd/cmd/ems/commonjs规范的异同
 24. es6常见的方法
 25. 本地存储的集中方式cookie/localstorage/sessionstorage/indexDB
+26. [事件捕获/事件冒泡/事件代理](./md/interview/Javascript/05-事件捕获与事件冒泡.md)
+27. [JavaScript作用域](./md/interview/JavaScript/07-JavaScript作用域.md)
 
 ## webpack
 
