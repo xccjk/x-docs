@@ -39,31 +39,31 @@
 
 ## js
 
-1. [js的几种数据类型](./md/js/01-js数据类型.md)
-2. [js数据类型的判断](./md/js/02-js数据类型判断.md)
-3. [js数据类型之间的转换](./md/js/03-js数据类型之间的转换.md)
-4. [一文让你搞懂this问题](./md/js/16-this.md)
+1. [浅谈JavaScript数据类型](./md/js/01-js数据类型.md)
+2. [浅谈JavaScript数据类型的判断](./md/js/02-js数据类型判断.md)
+3. [浅谈JavaScript数据类型转换](./md/js/03-js数据类型之间的转换.md)
+4. [浅谈JavaScript中this问题](./md/js/16-this.md)
 5. [map中使用parseInt发生了什么](./md/js/15-map%20parseInt.md)
-6. [前端模块化](./md/js/17-前端模块化.md)
+6. [浅谈前端模块化](./md/js/17-前端模块化.md)
 7. 深拷贝与浅拷贝的实现
 8. js常见的几种继承方式
 9. apply，call，bind的区别于用法
-10. [闭包及使用场景](./md/interview/JavaScript/06-闭包.md)
-11. 原型与原型链
-12. [JavaScript作用域](./md/interview/JavaScript/07-JavaScript作用域.md)
-13. var/let/const 异同
-14. 数组的常见api
-15. 异步编程有哪些方案
-16. promise
-17. Generator与async/await等异步编程语法糖
-18. 怎么实现promise/A+规范的promise
-19. 浏览器是怎么执行js代码的
-20. 宏任务与微任务
-21. 浏览器的同源
-22. 跨域的几种实现与解决方案
-23. amd/cmd/ems/commonjs规范的异同
+10. [模拟实现call与apply方法](./md/js/18-浅谈JavaScript中call与apply的模拟实现.md)
+11. [浅谈JavaScript闭包](./md/interview/JavaScript/06-闭包.md)
+12. 原型与原型链
+13. [浅谈JavaScript作用域](./md/interview/JavaScript/07-JavaScript作用域.md)
+14. var/let/const 异同
+15. 数组的常见api
+16. 异步编程有哪些方案
+17. promise
+18. Generator与async/await等异步编程语法糖
+19. 怎么实现promise/A+规范的promise
+20. 浏览器是怎么执行js代码的
+21. 宏任务与微任务
+22. 浏览器的同源
+23. 跨域的几种实现与解决方案
 24. es6常见的方法
-25. 本地存储的集中方式cookie/localstorage/sessionstorage/indexDB
+25. [本地存储的几种方式cookie/localstorage/sessionstorage/indexDB](./md/js/19-本地存储的几种方式.md)
 26. [事件捕获/事件冒泡/事件代理](./md/interview/JavaScript/05-事件捕获与事件冒泡.md)
 
 ## webpack
