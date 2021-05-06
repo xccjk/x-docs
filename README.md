@@ -44,14 +44,14 @@
 3. [浅谈JavaScript数据类型转换](./md/js/03-js数据类型之间的转换.md)
 4. [浅谈JavaScript中this问题](./md/js/16-this.md)
 5. [map中使用parseInt发生了什么](./md/js/15-map%20parseInt.md)
-6. [浅谈前端模块化](./md/js/17-前端模块化.md)
+6. [浅谈前端模块化](./md/js/17-浅谈前端模块化.md)
 7. 深拷贝与浅拷贝的实现
 8. js常见的几种继承方式
 9. apply，call，bind的区别于用法
 10. [模拟实现call与apply方法](./md/js/18-浅谈JavaScript中call与apply的模拟实现.md)
-11. [浅谈JavaScript闭包](./md/interview/JavaScript/06-闭包.md)
+11. [浅谈JavaScript闭包](./md/interview/JavaScript/06-浅谈JavaScript闭包.md)
 12. 原型与原型链
-13. [浅谈JavaScript作用域](./md/interview/JavaScript/07-JavaScript作用域.md)
+13. [浅谈JavaScript作用域](./md/interview/JavaScript/07-浅谈JavaScript作用域.md)
 14. var/let/const 异同
 15. 数组的常见api
 16. 异步编程有哪些方案
@@ -64,7 +64,7 @@
 23. 跨域的几种实现与解决方案
 24. es6常见的方法
 25. [本地存储的几种方式cookie/localstorage/sessionstorage/indexDB](./md/js/19-本地存储的几种方式.md)
-26. [事件捕获/事件冒泡/事件代理](./md/interview/JavaScript/05-事件捕获与事件冒泡.md)
+26. [事件捕获/事件冒泡/事件代理](./md/interview/JavaScript/05-浅谈事件捕获与事件冒泡.md)
 
 ## webpack
 
